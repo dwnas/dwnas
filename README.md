@@ -1,6 +1,5 @@
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/dwnas/assets/blob/main/images/piplup/172x172.png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 100%; object-fit: cover; width: 100%; opacity: 0.7; background: url('https://github.com/Vendicated/Vencord/assets/67705577/ca775680-f208-4c1f-90a5-679ebf764f1b');]{x0000}$}
 
-<!--
 **dwnas/dwnas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
